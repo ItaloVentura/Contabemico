@@ -1,5 +1,5 @@
-# Contabemico
-Software Educacional de Auxílio ao Ensino Contábil
+# Contabêmico
+SOFTWARE EDUCACIONAL DE AUXÍLIO AO ENSINO CONTÁBIL
 
 Para execução do software recomenda-se o uso do Netbeans.
 
